@@ -1,20 +1,20 @@
 body {
     margin: 1em;
-    background-color: #f34141;
+    background-color: #073642;
 }
 
 a {
-    color: #666;
+    color: #839496;
     text-decoration: none;
 }
 
 a:hover {
-    color: #333;
+    color: #93a1a1;
 }
 
 h1 {
     padding: 1em;
-    color: #666;
+    color: #839496;
     font-size: 100%;
 }
 
@@ -34,7 +34,7 @@ footer {
 
 .container {
     overflow: hidden;
-    background-color: #fff;
+    background-color: #002b36;
     border-radius: 10px;
 }
 
